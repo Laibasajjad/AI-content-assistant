@@ -154,3 +154,7 @@ Push `app.py`, `requirements.txt`, `.gitignore`, and `README.md` to a GitHub rep
 ## 📜 License
 
 This project is licensed under the MIT License.
+
+## 💻 Deployment
+
+link: https://ai-content-assistant-01.streamlit.app/
